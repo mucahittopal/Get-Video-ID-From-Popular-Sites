@@ -1,4 +1,4 @@
-# Get Video ID From Popular Sites
+# Get Video ID From Popular Sites With PHP
 Let's take the ID information required to play with video links from popular video sites (Youtube, Google Drive, Facebook, Vimeo, Dailymotion, Ok.ru, Twitch), and create embed code and let you use the videos anywhere you want.
 
 Let's take a look at our getVideoID function that I prepared directly without extending the word.
@@ -195,3 +195,4 @@ Let's look at its use together.
 If you get stuck, don't hesitate to ask. The sites that come to my mind for now, if you want to get this much, you can specify them in the comments on my site.
 
 <a href="http://blablabla.mucahittopal.com/getVideoID.php" target="_blank">DEMO</a>
+<a href="https://www.mucahittopal.com/php-ile-video-sitelerinden-id-alma-ve-oynatma-fonksiyonu.html" target="_blank">Topic on my site</a>
